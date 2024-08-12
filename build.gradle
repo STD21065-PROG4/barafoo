@@ -153,5 +153,5 @@ dependencies {
     testImplementation 'org.junit-pioneer:junit-pioneer:2.2.0'
 
 
-
+implementation 'org.springdoc:springdoc-openapi-ui:1.7.0'
 }
